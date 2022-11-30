@@ -6,8 +6,6 @@
 #include "mylib/mylib.h"
 
 int main (void) {
-
-    // generate seed
     srand(time(0));
     int b;
 

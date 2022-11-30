@@ -1,5 +1,5 @@
 # Fibonnaci (Recursive and Iterative)
-I ran it by doing this:
+I ran it by doing this (files are already compiled from the makefile):
   ```sh
    make; ./main.out
   ```

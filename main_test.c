@@ -6,8 +6,8 @@ int main(void){
 
     int N = 10;
 
-    printf("The fibonacci number for %d is %d\n", N, iterativeFibonacci(N));
-    printf("The fibonacci number for %d is %d\n", N, recursiveFibonacci(N));
+    printf("The fibonacci number for %d is %d\n", N, fibonacciiterative(N));
+    printf("The fibonacci number for %d is %d\n", N, fibonaccirecursive(N));
 
 
     for (int i = 0; i <= N; i++){

@@ -1,4 +1,4 @@
-#Fibonnaci
+# Fibonnaci
 Start of by doing all of these:
   ```sh
     gcc -Wall -c mylib/mylib.c -o mylib.o
@@ -12,4 +12,4 @@ Start of by doing all of these:
   ```sh
     main.exe
   ```
- #The code might be not working so Im trying to fix it
+ # The code might be not working so Im trying to fix it

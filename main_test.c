@@ -4,10 +4,10 @@
 
 int main(void){
 
-    int N = 10;
+    int n = 10;
 
-    printf("The fibonacci number for %d is %d\n", N, fibonacciiterative(N));
-    printf("The fibonacci number for %d is %d\n", N, fibonaccirecursive(N));
+    printf("The fibonacci number for %d is %d\n", n, fibonacciiterative(N));
+    printf("The fibonacci number for %d is %d\n", n, fibonaccirecursive(N));
 
 
     for (int i = 0; i <= N; i++){

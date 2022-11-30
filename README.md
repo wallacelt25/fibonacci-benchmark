@@ -1,5 +1,5 @@
 # Fibonnaci
-Start of by doing all of these:
+Editing:
   ```sh
     gcc -Wall -c mylib/mylib.c -o mylib.o
   ```
